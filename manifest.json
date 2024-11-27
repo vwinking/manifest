@@ -3,7 +3,7 @@
   "short_name": "DANV",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/vwinking/manifest/refs/heads/main/icon-192x192.png",
+      "src": "https://ac50332b.manifest-eqf.pages.dev/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
