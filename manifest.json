@@ -1,0 +1,20 @@
+{
+  "name": "DANV Winking",
+  "short_name": "DANV",
+  "icons": [
+    {
+      "src": "https://static1.squarespace.com/static/669a18aa47384e22cec29cdd/t/674751f39b9b62693017b5ec/1732727283188/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://static1.squarespace.com/static/669a18aa47384e22cec29cdd/t/674751f3c5974f2e8f34b00f/1732727283401/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#113267"
+}
