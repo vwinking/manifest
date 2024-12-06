@@ -1,7 +1,7 @@
 {
   "name": "DANV Winking",
   "short_name": "DANV",
-  "start_url": "/",
+  "start_url": "https://www.danv-winking.de",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff"
